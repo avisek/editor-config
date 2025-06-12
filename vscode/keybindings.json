@@ -1,0 +1,49 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "tab",
+    "command": "editor.action.indentLines",
+    "when": "!suggestWidgetVisible && editorTextFocus && !editorReadonly && !inSnippetMode"
+  },
+  // Defaults for reference
+  // {
+  //   "key": "ctrl+home",
+  //   "command": "-cursorTop",
+  //   "when": "textInputFocus"
+  // },
+  // {
+  //   "key": "ctrl+shift+home",
+  //   "command": "-cursorTopSelect",
+  //   "when": "textInputFocus"
+  // },
+  // {
+  //   "key": "ctrl+end",
+  //   "command": "-cursorBottom",
+  //   "when": "textInputFocus"
+  // },
+  // {
+  //   "key": "ctrl+shift+end",
+  //   "command": "-cursorBottomSelect",
+  //   "when": "textInputFocus"
+  // },
+  // {
+  //   "key": "ctrl+home",
+  //   "command": "cursorHome",
+  //   "when": "textInputFocus"
+  // },
+  // {
+  //   "key": "ctrl+shift+home",
+  //   "command": "cursorHomeSelect",
+  //   "when": "textInputFocus"
+  // },
+  // {
+  //   "key": "ctrl+end",
+  //   "command": "cursorEnd",
+  //   "when": "textInputFocus"
+  // },
+  // {
+  //   "key": "ctrl+shift+end",
+  //   "command": "cursorEndSelect",
+  //   "when": "textInputFocus"
+  // },
+]
