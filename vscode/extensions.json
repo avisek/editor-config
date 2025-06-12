@@ -1,0 +1,961 @@
+[
+  {
+    "identifier": {
+      "id": "cardinal90.multi-cursor-case-preserve",
+      "uuid": "5ac3c77e-2779-4be6-95b6-73092c7138ae"
+    },
+    "version": "1.0.5",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/cardinal90.multi-cursor-case-preserve-1.0.5",
+      "scheme": "file"
+    },
+    "relativeLocation": "cardinal90.multi-cursor-case-preserve-1.0.5",
+    "metadata": {
+      "installedTimestamp": 1727816764932,
+      "pinned": false,
+      "source": "gallery",
+      "id": "5ac3c77e-2779-4be6-95b6-73092c7138ae",
+      "publisherId": "b45ade91-f306-4e63-b5be-041e42e3a0c9",
+      "publisherDisplayName": "Cardinal90",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "esbenp.prettier-vscode",
+      "uuid": "96fa4707-6983-4489-b7c5-d5ffdfdcce90"
+    },
+    "version": "11.0.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/esbenp.prettier-vscode-11.0.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "esbenp.prettier-vscode-11.0.0",
+    "metadata": {
+      "installedTimestamp": 1727816764932,
+      "pinned": false,
+      "source": "gallery",
+      "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
+      "publisherId": "d16f4e39-2ffb-44e3-9c0d-79d873570e3a",
+      "publisherDisplayName": "Prettier",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "crazywolf.smali",
+      "uuid": "56b7fa53-6e18-4eb7-8d2c-8224caa21756"
+    },
+    "version": "1.0.1",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/crazywolf.smali-1.0.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "crazywolf.smali-1.0.1",
+    "metadata": {
+      "installedTimestamp": 1727816764933,
+      "pinned": false,
+      "source": "gallery",
+      "id": "56b7fa53-6e18-4eb7-8d2c-8224caa21756",
+      "publisherId": "ac47826e-d7f4-42e8-9979-22e13723181f",
+      "publisherDisplayName": "crazywolf",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "jock.svg",
+      "uuid": "4ae6dc82-7981-4f10-bd81-2d72aec37f39"
+    },
+    "version": "1.5.4",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/jock.svg-1.5.4",
+      "scheme": "file"
+    },
+    "relativeLocation": "jock.svg-1.5.4",
+    "metadata": {
+      "installedTimestamp": 1727816764932,
+      "pinned": false,
+      "source": "gallery",
+      "id": "4ae6dc82-7981-4f10-bd81-2d72aec37f39",
+      "publisherId": "f01a7894-535b-451f-980b-1a4bee6d63f3",
+      "publisherDisplayName": "jock",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode.live-server",
+      "uuid": "4eae7368-ec63-429d-8449-57a7df5e2117"
+    },
+    "version": "0.4.15",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/ms-vscode.live-server-0.4.15",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode.live-server-0.4.15",
+    "metadata": {
+      "installedTimestamp": 1727816764933,
+      "pinned": false,
+      "source": "gallery",
+      "id": "4eae7368-ec63-429d-8449-57a7df5e2117",
+      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "styled-components.vscode-styled-components",
+      "uuid": "22a740c5-ec07-4bf0-a58f-1a38aabea310"
+    },
+    "version": "1.7.8",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/styled-components.vscode-styled-components-1.7.8",
+      "scheme": "file"
+    },
+    "relativeLocation": "styled-components.vscode-styled-components-1.7.8",
+    "metadata": {
+      "installedTimestamp": 1727816764933,
+      "pinned": false,
+      "source": "gallery",
+      "id": "22a740c5-ec07-4bf0-a58f-1a38aabea310",
+      "publisherId": "608ef4b3-a3fc-4d26-918a-19c0d8435cf4",
+      "publisherDisplayName": "Styled Components",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode-remote.remote-ssh-edit",
+      "uuid": "bfeaf631-bcff-4908-93ed-fda4ef9a0c5c"
+    },
+    "version": "0.87.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.87.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode-remote.remote-ssh-edit-0.87.0",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1727846277497,
+      "pinned": false,
+      "source": "gallery",
+      "id": "bfeaf631-bcff-4908-93ed-fda4ef9a0c5c",
+      "publisherId": "ac9410a2-0d75-40ec-90de-b59bb705801d",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "tobermory.es6-string-html",
+      "uuid": "db50f65a-6c7c-4134-8e8d-e6b8a9c738da"
+    },
+    "version": "2.17.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/tobermory.es6-string-html-2.17.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "tobermory.es6-string-html-2.17.0",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1733374668472,
+      "pinned": false,
+      "source": "gallery",
+      "id": "db50f65a-6c7c-4134-8e8d-e6b8a9c738da",
+      "publisherId": "ea206736-c554-4aad-bb7f-813836f42f78",
+      "publisherDisplayName": "Tobermory",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "tamasfe.even-better-toml",
+      "uuid": "b2215d5f-675e-4a2b-b6ac-1ca737518b78"
+    },
+    "version": "0.21.2",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/tamasfe.even-better-toml-0.21.2",
+      "scheme": "file"
+    },
+    "relativeLocation": "tamasfe.even-better-toml-0.21.2",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1734928911471,
+      "pinned": false,
+      "source": "gallery",
+      "id": "b2215d5f-675e-4a2b-b6ac-1ca737518b78",
+      "publisherId": "78c2102e-13a2-49ea-ac79-8d1bbacbbf0e",
+      "publisherDisplayName": "tamasfe",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vsliveshare.vsliveshare",
+      "uuid": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af"
+    },
+    "version": "1.0.5948",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5948",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vsliveshare.vsliveshare-1.0.5948",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1736227517245,
+      "pinned": false,
+      "source": "gallery",
+      "id": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
+      "publisherId": "74365139-d24d-4d0a-8377-c28643f7a216",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "codesandbox-io.codesandbox-projects",
+      "uuid": "2d8a982d-d254-418c-a19e-80efa6eb735f"
+    },
+    "version": "0.2.143",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/codesandbox-io.codesandbox-projects-0.2.143",
+      "scheme": "file"
+    },
+    "relativeLocation": "codesandbox-io.codesandbox-projects-0.2.143",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1737783020062,
+      "pinned": false,
+      "source": "gallery",
+      "id": "2d8a982d-d254-418c-a19e-80efa6eb735f",
+      "publisherId": "fb094f7c-1993-4147-8956-38198683e3fc",
+      "publisherDisplayName": "CodeSandbox",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "yoavbls.pretty-ts-errors",
+      "uuid": "1e149c89-8f97-447e-863d-1146f0ad1b70"
+    },
+    "version": "0.6.1",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/yoavbls.pretty-ts-errors-0.6.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "yoavbls.pretty-ts-errors-0.6.1",
+    "metadata": {
+      "installedTimestamp": 1738330936673,
+      "pinned": false,
+      "source": "gallery",
+      "id": "1e149c89-8f97-447e-863d-1146f0ad1b70",
+      "publisherId": "0939a3c0-6896-4249-bfa3-4ff58ebaccd0",
+      "publisherDisplayName": "yoavbls",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "enkia.tokyo-night",
+      "uuid": "1cac7443-911e-48b9-8341-49f3880c288a"
+    },
+    "version": "1.1.2",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/enkia.tokyo-night-1.1.2",
+      "scheme": "file"
+    },
+    "relativeLocation": "enkia.tokyo-night-1.1.2",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1738786125736,
+      "pinned": false,
+      "source": "gallery",
+      "id": "1cac7443-911e-48b9-8341-49f3880c288a",
+      "publisherId": "745c7670-02e7-4a27-b662-e1b5719f2ba7",
+      "publisherDisplayName": "enkia",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "zhuangtongfa.material-theme",
+      "uuid": "26a529c9-2654-4b95-a63f-02f6a52429e6"
+    },
+    "version": "3.19.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/zhuangtongfa.material-theme-3.19.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "zhuangtongfa.material-theme-3.19.0",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1739161728149,
+      "pinned": false,
+      "source": "gallery",
+      "id": "26a529c9-2654-4b95-a63f-02f6a52429e6",
+      "publisherId": "8ae75bda-ec22-4a17-9340-abf1a20beca9",
+      "publisherDisplayName": "binaryify",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "shd101wyy.markdown-preview-enhanced",
+      "uuid": "3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a"
+    },
+    "version": "0.8.18",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.8.18",
+      "scheme": "file"
+    },
+    "relativeLocation": "shd101wyy.markdown-preview-enhanced-0.8.18",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1742135343684,
+      "pinned": false,
+      "source": "gallery",
+      "id": "3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a",
+      "publisherId": "deac4ec9-08f5-4752-aa45-c6f09e1f615d",
+      "publisherDisplayName": "Yiyi Wang",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "github.vscode-pull-request-github",
+      "uuid": "69ddd764-339a-4ecc-97c1-9c4ece58e36d"
+    },
+    "version": "0.108.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/github.vscode-pull-request-github-0.108.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "github.vscode-pull-request-github-0.108.0",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1743745682833,
+      "pinned": false,
+      "source": "gallery",
+      "id": "69ddd764-339a-4ecc-97c1-9c4ece58e36d",
+      "publisherId": "7c1c19cd-78eb-4dfb-8999-99caf7679002",
+      "publisherDisplayName": "GitHub",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ritwickdey.liveserver",
+      "uuid": "46cc5bbd-b098-4568-9b87-f91e07d26f2d"
+    },
+    "version": "5.7.9",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/ritwickdey.liveserver-5.7.9",
+      "scheme": "file"
+    },
+    "relativeLocation": "ritwickdey.liveserver-5.7.9",
+    "metadata": {
+      "installedTimestamp": 1748808065977,
+      "pinned": false,
+      "source": "gallery",
+      "id": "46cc5bbd-b098-4568-9b87-f91e07d26f2d",
+      "publisherId": "17fd9a78-e430-4a78-add2-ade4a8830352",
+      "publisherDisplayName": "Ritwick Dey",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "jnoortheen.nix-ide",
+      "uuid": "0ffebccd-4265-4f2d-a855-db1adcf278c7"
+    },
+    "version": "0.4.18",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/jnoortheen.nix-ide-0.4.18",
+      "scheme": "file"
+    },
+    "relativeLocation": "jnoortheen.nix-ide-0.4.18",
+    "metadata": {
+      "installedTimestamp": 1748808065978,
+      "pinned": false,
+      "source": "gallery",
+      "id": "0ffebccd-4265-4f2d-a855-db1adcf278c7",
+      "publisherId": "3a7c13d8-8768-454a-be53-290c25bd0f85",
+      "publisherDisplayName": "Noortheen",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode.remote-explorer",
+      "uuid": "11858313-52cc-4e57-b3e4-d7b65281e34b"
+    },
+    "version": "0.5.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/ms-vscode.remote-explorer-0.5.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode.remote-explorer-0.5.0",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1748808067381,
+      "pinned": false,
+      "source": "gallery",
+      "id": "11858313-52cc-4e57-b3e4-d7b65281e34b",
+      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "beardedbear.beardedtheme",
+      "uuid": "d1818e93-bccc-4812-8b8b-37aabc5a7a94"
+    },
+    "version": "10.1.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/beardedbear.beardedtheme-10.1.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "beardedbear.beardedtheme-10.1.0",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1748808067290,
+      "pinned": false,
+      "source": "gallery",
+      "id": "d1818e93-bccc-4812-8b8b-37aabc5a7a94",
+      "publisherId": "bfe8429d-0105-48ef-831f-69e781aeb77c",
+      "publisherDisplayName": "BeardedBear",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "mark-wiemer.vscode-autohotkey-plus-plus",
+      "uuid": "cf96e3c7-3b07-4403-acc9-2b6299ba7877"
+    },
+    "version": "6.7.1",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/mark-wiemer.vscode-autohotkey-plus-plus-6.7.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "mark-wiemer.vscode-autohotkey-plus-plus-6.7.1",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1748808067481,
+      "pinned": false,
+      "source": "gallery",
+      "id": "cf96e3c7-3b07-4403-acc9-2b6299ba7877",
+      "publisherId": "5d0c3a99-7c1e-41ac-a4b0-401d0091adcf",
+      "publisherDisplayName": "Mark Wiemer",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode-remote.remote-ssh",
+      "uuid": "607fd052-be03-4363-b657-2bd62b83d28a"
+    },
+    "version": "0.120.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/ms-vscode-remote.remote-ssh-0.120.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode-remote.remote-ssh-0.120.0",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1748808068217,
+      "pinned": false,
+      "source": "gallery",
+      "id": "607fd052-be03-4363-b657-2bd62b83d28a",
+      "publisherId": "ac9410a2-0d75-40ec-90de-b59bb705801d",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "rangav.vscode-thunder-client",
+      "uuid": "2fd56207-78ef-49d4-95d2-9b801eee4dbf"
+    },
+    "version": "2.35.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/rangav.vscode-thunder-client-2.35.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "rangav.vscode-thunder-client-2.35.0",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1748808068387,
+      "pinned": false,
+      "source": "gallery",
+      "id": "2fd56207-78ef-49d4-95d2-9b801eee4dbf",
+      "publisherId": "f6503eef-4f6f-415c-b1e0-221209c035ee",
+      "publisherDisplayName": "Thunder Client",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "eamodio.gitlens",
+      "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
+    },
+    "version": "17.1.1",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/eamodio.gitlens-17.1.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "eamodio.gitlens-17.1.1",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1748808067289,
+      "pinned": false,
+      "source": "gallery",
+      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
+      "publisherId": "678d198b-9b2e-49d3-96ff-6d801c9575df",
+      "publisherDisplayName": "GitKraken",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "pkief.material-icon-theme",
+      "uuid": "5db78037-f674-459f-a236-db622c427c5b"
+    },
+    "version": "5.23.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/pkief.material-icon-theme-5.23.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "pkief.material-icon-theme-5.23.0",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1748808068551,
+      "pinned": false,
+      "source": "gallery",
+      "id": "5db78037-f674-459f-a236-db622c427c5b",
+      "publisherId": "f9e5bc2f-fea1-4075-917f-d83e01e69f56",
+      "publisherDisplayName": "Philipp Kief",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "github.vscode-pull-request-github",
+      "uuid": "69ddd764-339a-4ecc-97c1-9c4ece58e36d"
+    },
+    "version": "0.110.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/github.vscode-pull-request-github-0.110.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "github.vscode-pull-request-github-0.110.0",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1748808131344,
+      "pinned": false,
+      "source": "gallery",
+      "id": "69ddd764-339a-4ecc-97c1-9c4ece58e36d",
+      "publisherId": "7c1c19cd-78eb-4dfb-8999-99caf7679002",
+      "publisherDisplayName": "GitHub",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "mylesmurphy.prettify-ts",
+      "uuid": "c988487b-df58-4518-83d9-cfbf0483493e"
+    },
+    "version": "0.3.9",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/mylesmurphy.prettify-ts-0.3.9",
+      "scheme": "file"
+    },
+    "relativeLocation": "mylesmurphy.prettify-ts-0.3.9",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1749753291241,
+      "pinned": false,
+      "source": "gallery",
+      "id": "c988487b-df58-4518-83d9-cfbf0483493e",
+      "publisherId": "d2282ebd-08be-46fb-a27e-88653362c2f9",
+      "publisherDisplayName": "Myles Murphy",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "somewhatstationery.some-sass",
+      "uuid": "6d35099c-3671-464c-ac0b-34a0c3823927"
+    },
+    "version": "4.2.1",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/somewhatstationery.some-sass-4.2.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "somewhatstationery.some-sass-4.2.1",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1749753291256,
+      "pinned": false,
+      "source": "gallery",
+      "id": "6d35099c-3671-464c-ac0b-34a0c3823927",
+      "publisherId": "02638283-c13a-4acf-9f26-24bdcfdfce24",
+      "publisherDisplayName": "Somewhat Stationery",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "github.vscode-github-actions",
+      "uuid": "04f49bfc-8330-4eee-8237-ea938fb755ef"
+    },
+    "version": "0.27.2",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/github.vscode-github-actions-0.27.2",
+      "scheme": "file"
+    },
+    "relativeLocation": "github.vscode-github-actions-0.27.2",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1749753291178,
+      "pinned": false,
+      "source": "gallery",
+      "id": "04f49bfc-8330-4eee-8237-ea938fb755ef",
+      "publisherId": "7c1c19cd-78eb-4dfb-8999-99caf7679002",
+      "publisherDisplayName": "GitHub",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "bradlc.vscode-tailwindcss",
+      "uuid": "4db62a7c-7d70-419c-96d2-6c3a4dc77ea5"
+    },
+    "version": "0.14.21",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.21",
+      "scheme": "file"
+    },
+    "relativeLocation": "bradlc.vscode-tailwindcss-0.14.21",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1749753291239,
+      "pinned": false,
+      "source": "gallery",
+      "id": "4db62a7c-7d70-419c-96d2-6c3a4dc77ea5",
+      "publisherId": "84722833-669b-4c7d-920e-b60e43fae19a",
+      "publisherDisplayName": "Tailwind Labs",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "github.copilot",
+      "uuid": "23c4aeee-f844-43cd-b53e-1113e483f1a6"
+    },
+    "version": "1.333.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/github.copilot-1.333.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "github.copilot-1.333.0",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1749753293026,
+      "pinned": false,
+      "source": "gallery",
+      "id": "23c4aeee-f844-43cd-b53e-1113e483f1a6",
+      "publisherId": "7c1c19cd-78eb-4dfb-8999-99caf7679002",
+      "publisherDisplayName": "GitHub",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "prisma.prisma",
+      "uuid": "33ce9d6b-41cf-4972-a62b-386f7201981d"
+    },
+    "version": "6.9.1",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/prisma.prisma-6.9.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "prisma.prisma-6.9.1",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1749753291242,
+      "pinned": false,
+      "source": "gallery",
+      "id": "33ce9d6b-41cf-4972-a62b-386f7201981d",
+      "publisherId": "2397d6f3-c7f1-4b03-9029-414f731a68ec",
+      "publisherDisplayName": "Prisma",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode-remote.remote-containers",
+      "uuid": "93ce222b-5f6f-49b7-9ab1-a0463c6238df"
+    },
+    "version": "0.417.0",
+    "location": {
+      "$mid": 1,
+      "path": "/Users/avisek/.vscode/extensions/ms-vscode-remote.remote-containers-0.417.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode-remote.remote-containers-0.417.0",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1749753519357,
+      "pinned": false,
+      "source": "gallery",
+      "id": "93ce222b-5f6f-49b7-9ab1-a0463c6238df",
+      "publisherId": "ac9410a2-0d75-40ec-90de-b59bb705801d",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": { "id": "github.copilot-chat" },
+    "version": "0.28.0",
+    "location": {
+      "$mid": 1,
+      "fsPath": "/Users/avisek/.vscode/extensions/github.copilot-chat-0.28.0",
+      "external": "file:///Users/avisek/.vscode/extensions/github.copilot-chat-0.28.0",
+      "path": "/Users/avisek/.vscode/extensions/github.copilot-chat-0.28.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "github.copilot-chat-0.28.0",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1749753519358,
+      "pinned": false,
+      "source": "gallery",
+      "id": "7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f",
+      "publisherId": "7c1c19cd-78eb-4dfb-8999-99caf7679002",
+      "publisherDisplayName": "GitHub",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  }
+]
