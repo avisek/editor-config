@@ -3,7 +3,7 @@
   {
     "key": "tab",
     "command": "editor.action.indentLines",
-    "when": "!suggestWidgetVisible && editorTextFocus && !editorReadonly && !inSnippetMode"
+    "when": "!suggestWidgetVisible && editorTextFocus && !editorReadonly && !inSnippetMode",
   },
   // Defaults for reference
   // {

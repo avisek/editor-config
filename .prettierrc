@@ -1,0 +1,12 @@
+{
+  "overrides": [
+    {
+      "//": "Adds trailing commas to JSON files",
+      "files": ["**/*.json"],
+      "options": {
+        "parser": "json5",
+        "quoteProps": "preserve"
+      }
+    }
+  ]
+}

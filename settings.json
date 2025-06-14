@@ -1,0 +1,121 @@
+{
+  // Telemetry
+
+  "telemetry.feedback.enabled": false, // VSCode only
+  "telemetry.telemetryLevel": "off", // VSCode only
+  "crashReporting.enabled": "off", // Cursor only
+
+  // Annoyances
+
+  "extensions.ignoreRecommendations": true,
+  "security.workspace.trust.enabled": false,
+
+  // Version Control
+
+  "git.enableSmartCommit": true,
+
+  "git.autofetch": "all",
+  "git.confirmSync": false,
+  "githubPullRequests.pullBranch": "always",
+
+  // Smooth Scrolling
+
+  "editor.smoothScrolling": true,
+  "workbench.list.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true,
+
+  // Mouse Wheel Zoom
+
+  "window.zoomPerWindow": false,
+  // "editor.mouseWheelZoom": true,
+
+  // Layout & UI
+
+  "window.commandCenter": true,
+  "workbench.activityBar.location": "top",
+
+  "editor.minimap.enabled": false,
+  "editor.lightbulb.enabled": "off",
+
+  "workbench.editor.wrapTabs": true,
+  "workbench.editor.tabActionCloseVisibility": false,
+
+  "explorer.compactFolders": false,
+  "material-icon-theme.hidesExplorerArrows": true,
+  "workbench.tree.indent": 16,
+
+  "scm.defaultViewMode": "tree",
+  "githubPullRequests.fileListLayout": "tree",
+
+  "git.blame.statusBarItem.enabled": true, // TODO: Remove once this is default
+
+  "editor.tabSize": 2,
+  "editor.rulers": [80],
+
+  // Font
+
+  "editor.fontSize": 14,
+  "terminal.integrated.fontSize": 13,
+
+  // Highlighting
+
+  "editor.guides.bracketPairs": true,
+
+  // Theme
+
+  "workbench.colorTheme": "Tokyo Night",
+  "workbench.iconTheme": "material-icon-theme",
+
+  "workbench.colorCustomizations": {
+    "editorRuler.foreground": "#ffffff06"
+  },
+
+  // Explorer
+
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+
+  // Terminal
+
+  "terminal.integrated.defaultProfile.windows": "C:\\Program Files\\Git\\bin\\bash.exe (migrated)",
+  "terminal.integrated.profiles.windows": {
+    "C:\\Program Files\\Git\\bin\\bash.exe (migrated)": {
+      "path": "C:\\Program Files\\Git\\bin\\bash.exe",
+      "args": []
+    }
+  },
+
+  // Formatting
+
+  "editor.formatOnSave": true,
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+
+  "nix.formatterPath": "alejandra",
+
+  // Suggestions
+
+  "editor.suggest.insertMode": "replace",
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+
+  // Linting
+
+  "css.lint.emptyRules": "ignore",
+
+  // Extensions
+
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.donotShowInfoMsg": true
+}
