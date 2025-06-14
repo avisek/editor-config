@@ -1,9 +1,12 @@
 {
-  "telemetry.telemetryLevel": "off",
-  "crashReporting.enabled": "off",
-  "extensions.ignoreRecommendations": true,
+  "telemetry.feedback.enabled": false, // VSCode only
+  "telemetry.telemetryLevel": "off", // VSCode only
+  "crashReporting.enabled": "off", // Cursor only
 
-  "git.autofetch": true,
+  "extensions.ignoreRecommendations": true,
+  "security.workspace.trust.enabled": false,
+
+  "git.autofetch": "all",
   "git.confirmSync": false,
   "git.enableSmartCommit": true,
 
@@ -32,6 +35,11 @@
   "prettier.semi": false,
   "prettier.singleQuote": true,
   "prettier.trailingComma": "all",
+
+  "editor.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true,
+  "workbench.list.smoothScrolling": true,
+
   "workbench.iconTheme": "material-icon-theme",
 
   "material-icon-theme.hidesExplorerArrows": true,
