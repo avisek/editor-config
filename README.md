@@ -106,19 +106,14 @@ cp ~/editor-config/keybindings.json ~/AppData/Roaming/Code/User/
 ### Export
 
 ```sh
-# Cursor
 cursor --list-extensions > ~/editor-config/extensions.list
-
-# VSCode
+# Or
 code --list-extensions > ~/editor-config/extensions.list
 ```
 
 ### Import
 
 ```sh
-# Cursor
-cat ~/editor-config/extensions.list | xargs -L 1 cursor --install-extension
-
-# VSCode
-cat ~/editor-config/extensions.list | xargs -L 1 code --install-extension
+xargs -L 1 cursor --install-extension < ~/editor-config/extensions.list
+xargs -L 1 code --install-extension < ~/editor-config/extensions.list
 ```
