@@ -1,10 +1,11 @@
 // Place your key bindings in this file to override the defaults
 [
-  {
-    "key": "tab",
-    "command": "editor.action.indentLines",
-    "when": "!suggestWidgetVisible && editorTextFocus && !editorReadonly && !inSnippetMode",
-  },
+  // Conflicts with Cursor Tab
+  // {
+  //   "key": "tab",
+  //   "command": "editor.action.indentLines",
+  //   "when": "!suggestWidgetVisible && editorTextFocus && !editorReadonly && !inSnippetMode",
+  // },
   // Defaults for reference
   // {
   //   "key": "ctrl+home",
