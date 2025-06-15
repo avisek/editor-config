@@ -114,6 +114,10 @@
 
   "css.lint.emptyRules": "ignore",
 
+  // Cursor
+
+  "cursor.cpp.disabledLanguages": [],
+
   // Extensions
 
   "liveServer.settings.donotVerifyTags": true,
