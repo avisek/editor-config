@@ -51,14 +51,14 @@ cp ~/editor-config/keybindings.json ~/Library/Application\ Support/Code/User/
 ### Export
 
 ```sh
-code --list-extensions > extensions.list
+cursor --list-extensions > ~/editor-config/extensions.list
 ```
 
 ### Import
 
 ```sh
-cat extensions.list | xargs -L 1 code --install-extension
+cat ~/editor-config/extensions.list | xargs -L 1 cursor --install-extension
 
 # Windows (PowerShell)
-# Get-Content extensions.list | ForEach-Object { code --install-extension $_ }
+# Get-Content ~/editor-config/extensions.list | ForEach-Object { cursor --install-extension $_ }
 ```
