@@ -93,14 +93,17 @@
   "editor.formatOnSave": true,
 
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "[prisma]": {
-    "editor.defaultFormatter": "Prisma.prisma"
-  },
-
   "prettier.semi": false,
   "prettier.singleQuote": true,
   "prettier.trailingComma": "all",
 
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+
+  "[nix]": {
+    "editor.defaultFormatter": "jnoortheen.nix-ide"
+  },
   "nix.formatterPath": "alejandra",
 
   // Suggestions
