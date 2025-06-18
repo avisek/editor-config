@@ -13,7 +13,12 @@ git clone https://github.com/avisek/editor-config.git ~/editor-config
 
 ## Settings and keybindings
 
+<details>
+  <summary>
+
 ### Backup existing configs (optional)
+
+  </summary>
 
 ```sh
 # Linux
@@ -35,7 +40,14 @@ mv ~/AppData/Roaming/Code/User/settings.json{,.bak}
 mv ~/AppData/Roaming/Code/User/keybindings.json{,.bak}
 ```
 
+</details>
+
+<details>
+  <summary>
+
 ### Remove existing configs (optional)
+
+  </summary>
 
 ```sh
 # Linux
@@ -56,6 +68,8 @@ rm ~/AppData/Roaming/Cursor/User/keybindings.json
 rm ~/AppData/Roaming/Code/User/settings.json
 rm ~/AppData/Roaming/Code/User/keybindings.json
 ```
+
+</details>
 
 ### Symlink (recommended)
 
@@ -79,7 +93,12 @@ ln -sf ~/editor-config/settings.json ~/AppData/Roaming/Code/User/
 ln -sf ~/editor-config/keybindings.json ~/AppData/Roaming/Code/User/
 ```
 
+<details>
+  <summary>
+
 ### Or just copy
+
+  </summary>
 
 ```sh
 # Linux
@@ -100,6 +119,8 @@ cp ~/editor-config/keybindings.json ~/AppData/Roaming/Cursor/User/
 cp ~/editor-config/settings.json ~/AppData/Roaming/Code/User/
 cp ~/editor-config/keybindings.json ~/AppData/Roaming/Code/User/
 ```
+
+</details>
 
 ## Extensions
 
