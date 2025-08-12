@@ -120,6 +120,7 @@
   // Cursor
 
   "cursor.cpp.disabledLanguages": [],
+  "cursor.chat.terminalShowHoverHint": false,
 
   // Extensions
 
