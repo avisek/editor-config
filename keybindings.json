@@ -1,14 +1,17 @@
 // Place your key bindings in this file to override the defaults
 [
-  // Added by Cursor
-  {
-    "key": "cmd+e",
-    "command": "composerMode.background"
-  },
-
   {
     "key": "alt+space",
     "command": "git.checkout"
+  },
+  // Added by Claude Code
+  {
+    "key": "shift+enter",
+    "command": "workbench.action.terminal.sendSequence",
+    "args": {
+      "text": "\\\r\n"
+    },
+    "when": "terminalFocus"
   }
 
   // Conflicts with Cursor Tab
